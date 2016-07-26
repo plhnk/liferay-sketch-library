@@ -1,6 +1,8 @@
 # Liferay Sketch Library
 A place to collaborate and store our Sketch work so we don't have to start from scratch every time! *mind blown*
 
+We are using Github (instead of sending a billion ~~Dropbox~~ Liferay Sync folder invites) to make these files accessible to everyone, and to make the process as open and transparent as possible to provide context for new users and get the best possible product.
+
 ## Prerequisites
 
 1. [Sketch](https://sketchapp.com/)
