@@ -27,3 +27,13 @@ Step 4: Study the [Git Sketch Plugin Workflow](https://github.com/mathieudutour/
 Step 5: Submit a well-documented pull request for a fix or improvement 
 
 Step 7: Deposit money in da bank$$$ 
+
+##Resources
+
+
+* New to GitHub? [Start here.](https://guides.github.com/)
+	* Really great video series - [GitHub for Noobs](https://www.youtube.com/playlist?list=PLqGj3iMvMa4LFz8DZ0t-89twnelpT4Ilw)
+	* [If you can't [use git] good and wanna learn to do other stuff good too](https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/)
+* New to Sketch? [Start here.](http://sketchapp.com/learn/)
+	* [Keyboard Shortcuts](http://sketchshortcuts.com/)
+* Have questions? [Start here.](https://www.google.com/?gws_rd=ssl#q=what+is+the+meaning+of+life%3F)
