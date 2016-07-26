@@ -3,12 +3,12 @@ A place to collaborate and store our Sketch work so we don't have to start from 
 
 ## Prerequisites
 
-[Sketch](https://sketchapp.com/)–_
-[Craft](https://www.invisionapp.com/craft)
-[Sketch Toolbox](http://sketchtoolbox.com/)
-[Github Account](https://github.com)
-[Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin) 
-[Git LFS](https://git-lfs.github.com/)
+1. [Sketch](https://sketchapp.com/)
+	* [Craft](https://www.invisionapp.com/craft)
+	* [Sketch Toolbox](http://sketchtoolbox.com/)
+2. [Github Account](https://github.com)
+	* [Git Sketch Plugin](https://github.com/mathieudutour/git-sketch-plugin) 
+	* [Git LFS](https://git-lfs.github.com/)
 
 ##*Optional*
 
